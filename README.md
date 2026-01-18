@@ -50,18 +50,18 @@ Reduced energy consumption and operational overhead by approximately 25–30% th
 
 ### Experimental Results (Summary)
 
-  | Nodes | Multi-Version Concurrency Control Storage | Optimistic Concurrency Control | Reduction (%)   |
-  |-------|-------------------------------------------| -------------------------------| ----------------|
-  | 3     |  3                                        | 1                              | 66.67           |
-  | 5     |  5                                        | 1.5                            | 70.00           |
-  | 7     |  7                                        | 2                              | 71.43           |
-  | 9     |  9                                        | 2.5                            | 72.22           |
-  | 11    |  11                                       | 3                              | 72.73           |
+  | Nodes | Baseline (req/s) | Optimized (req/s) | Improvment (%)  |
+  |-------|------------------| ------------------| ----------------|
+  | 3     |  3,600           | 4,700             | 66.67           |
+  | 5     |  5,900           | 7,700             | 70.00           |
+  | 7     |  8,400           | 10,950            | 71.43           |
+  | 9     |  10,700          | 13,950            | 72.22           |
+  | 11    |  13,200          | 17,400            | 72.73           |
 
 ### Citation
-OPTIMIZING FAULT-TOLERANCE IN DISTRIBUTED SYSTEMS WITH AI-AUGMENTED REPLICA MANAGEMENT
+MULTI-OBJECTIVE OPTIMIZATION FOR RESOURCE EFFICIENCY IN CLUSTERED ARCHITECTURE
 * Kalesha Khan Pattan
-* International Journal of Intelligent Systems and Applications in Engineering 
+* International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences 
 * ISSN 2147-6799
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
