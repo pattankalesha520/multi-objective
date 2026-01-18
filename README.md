@@ -45,7 +45,7 @@ Reduced energy consumption and operational overhead by approximately 25–30% th
 - **Production-Ready Integration and Deployment:**
     Designed the framework for modular integration with modern orchestration platforms such as Kubernetes and Spark, making it directly applicable to cloud-native, edge-computing, and enterprise cluster environments.
   
-  **Academic, Research, and Industry Value:**
+ - **Academic, Research, and Industry Value:**
   Provides a comprehensive reference implementation—covering architecture design, optimization algorithms, simulations, and empirical evaluation—suitable for research, advanced coursework, and real-world intelligent resource orchestration systems.
 
 ### Experimental Results (Summary)
