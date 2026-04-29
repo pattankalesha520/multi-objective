@@ -4,11 +4,11 @@
 
 ### Paper Information
 - **Author(s):** Kalesha Khan Pattan
-- **Published In:** International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences (IJIRMPS)
+- **Published In:** International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences (IJIRMPS) 
 - **Publication Date:** Aug 2021
-- **ISSN:** ISSN 2147-6799
-- **DOI:**
-- **Impact Factor:** 9.88
+- **ISSN:** ISSN 2349-7300
+- **DOI:** https://doi.org/10.37082/IJIRMPS.v9.i4.232768
+- **Impact Factor:** 9.907
 
 ### Abstract
 The paper proposes a multi-objective optimization framework for efficient resource management in clustered architectures with heterogeneous workloads.
@@ -62,13 +62,13 @@ Reduced energy consumption and operational overhead by approximately 25–30% th
 MULTI-OBJECTIVE OPTIMIZATION FOR RESOURCE EFFICIENCY IN CLUSTERED ARCHITECTURE
 * Kalesha Khan Pattan
 * International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences 
-* ISSN 2147-6799
+* ISSN 2349-7300
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijisae.org/ \
+https://www.ijirmps.org/ \
 **Author Contact** \
-**LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
+**LinkedIn**: www.linkedin.com/in/pattan-khan-689978177 | **Email**: pattankalesha520@gmail.com
 
 
 
